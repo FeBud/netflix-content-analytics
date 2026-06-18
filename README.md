@@ -11,7 +11,7 @@
 
 ## 📊 Dashboard Preview
 
-![Netflix Dashboard](Screenshot_2026-06-11_153332.png)
+![Netflix Dashboard]([Screenshot_2026-06-11_153332.png](https://github.com/FeBud/netflix-content-analytics/blob/f23211d5ab9f0cc51ad343eeeb75d64255953cba/Screenshot%20Dashboard.png))
 
 ---
 
