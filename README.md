@@ -179,7 +179,7 @@ A full **9-page PDF analytics report** is included covering:
 - SQL Methodology (4 phases)
 - Business Conclusions & Recommendations
 
-📥 [Download Report](Netflix_Content_Analytics_Report.pdf)
+📥 [Download Report](https://github.com/FeBud/netflix-content-analytics/blob/main/Netflix%20Report.pdf)
 
 ---
 
